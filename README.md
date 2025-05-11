@@ -52,7 +52,7 @@ A login form wireframe may include fields for email and password, a “Forgot Pa
 **Why it matters:**  
 Even though wireframes are static, planning interactions early ensures developers understand how the interface should behave.
 
-## Types of Wireframe.
+## Types of Wireframes
 # Low-Fidelity Wireframes
 
 These are simple, sketch-like layouts that focus on structure and basic functionality. They’re often black-and-white and created using basic shapes like boxes and lines.
