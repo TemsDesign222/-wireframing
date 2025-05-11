@@ -1,4 +1,4 @@
-. wireframing
+wireframing
 ## Wireframing in the Design Process
 
 # What is Wireframing?
