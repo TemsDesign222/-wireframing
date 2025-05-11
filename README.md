@@ -1,4 +1,4 @@
-# -wireframing
+. wireframing
 ## Wireframing in the Design Process
 
 # What is Wireframing?
@@ -97,7 +97,7 @@ There are several tools available to help designers and developers create effect
 . **Sketch** – Popular among macOS users, especially for UI/UX design and wireframing.
 . **Whimsical** – A clean, user-friendly tool for wireframes, flowcharts, and diagrams. "Figma" A web-based, collaborative design tool (my personal favorite!).
 
-# Recommended: Figma
+. Recommended: Figma
 Figma has become my go-to tool for wireframing and UI design because of its powerful features and ease of use.
 
 **Why I Use Figma:**
@@ -144,7 +144,7 @@ Because wireframes focus on layout and interaction, they keep the user experienc
 
 ## Real-World Scenario: Wireframing in Action
 
-# Identifying Usability Issues Before Development
+. Identifying Usability Issues Before Development
 During a group project in my ALX Software Engineering program, our team was tasked with building a user dashboard for a task management app. Before jumping into development, we created a low-fidelity wireframe in Figma to plan the layout and user flow.
 
 As we reviewed the wireframe, a few key usability issues became immediately clear:
@@ -153,7 +153,7 @@ As we reviewed the wireframe, a few key usability issues became immediately clea
 . The dashboard showed too much information on a single screen, making it hard to focus.
 
 
-# How the Issues Were Resolved
+. How the Issues Were Resolved
 Thanks to wireframing, we were able to make improvements early:
 
 . We simplified the sidebar by grouping related links under expandable menus.
