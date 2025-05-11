@@ -90,7 +90,7 @@ A login page wireframe showing styled input fields, placeholder text, a "Show Pa
 ## Popular Wireframing Tools
 There are several tools available to help designers and developers create effective wireframes. As a front-end developer in training through the ALX Software Engineering program, I've explored a few of these tools to enhance my design thinking and improve collaboration during the early stages of a project.
 
-# Common Wireframing Tools
+## Common Wireframing Tools
 
 . **Balsamiq** – Known for its sketchy, low-fidelity style. Great for quick drafts and brainstorming.
 . **Adobe XD** – Offers design and prototyping features, ideal for high-fidelity wireframes and UI mockups.
